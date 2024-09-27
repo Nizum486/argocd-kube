@@ -13,5 +13,5 @@ spec:
         run: argocd-kube
     spec:
       containers:
-      - image: bskwak/docker-repo:8f162ad
+      - image: bskwak/docker-repo:e1ffb75
         name: argocd-kube
